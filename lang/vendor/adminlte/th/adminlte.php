@@ -1,0 +1,30 @@
+<?php
+
+return [
+
+    'full_name'                   => 'ชื่อ - นามสกุล',
+    'email'                       => 'อีเมล',
+    'username'                    => 'ชื่อผู้ใช้งาน',
+    'password'                    => 'รหัสผ่าน',
+    'retype_password'             => 'รหัสผ่านอีกครั้ง',
+    'remember_me'                 => 'จดจำฉัน',
+    'register'                    => 'สมัครสมาชิก',
+    'register_a_new_membership'   => 'สมัครสมาชิก',
+    'i_forgot_my_password'        => 'ลืมรหัสผ่าน',
+    'i_already_have_a_membership' => 'เป็นสมาชิกแล้ว',
+    'sign_in'                     => 'เข้าสู่ระบบ',
+    'log_out'                     => 'ออกจากระบบ',
+    'toggle_navigation'           => 'เปิด/ปิด เมนู',
+    'login_message'               => 'กรอกข้อมูลเพื่อเข้าสู่ระบบ',
+    'register_message'            => 'สมัครสมาชิก',
+    'password_reset_message'      => 'รีเซ็ตรหัสผ่าน',
+    'reset_password'              => 'รีเซ็ตรหัสผ่าน',
+    'send_password_reset_link'    => 'ส่งลิงก์รีเซ็ตรหัสผ่าน',
+    'verify_message'              => 'บัญชีของคุณต้องได้รับการยืนยัน',
+    'verify_email_sent'           => 'ลิงก์ยืนยันถูกส่งไปยังอีเมลของคุณแล้ว',
+    'verify_check_your_email'     => 'ก่อนดำเนินการ โปรดตรวจสอบลิงก์ยืนยันในอีเมลของคุณ',
+    'verify_if_not_recieved'      => 'หากไม่ได้รับอีเมล',
+    'verify_request_another'      => 'คลิกที่นี่เพื่อขอใหม่',
+    'confirm_password_message'    => 'กรุณายืนยันรหัสผ่านของคุณเพื่อดำเนินการต่อ',
+    'remember_me_hint'            => 'จดจำฉันจนกว่า)ันจะกดออกจากระบบด้วยตัวเอง',
+];

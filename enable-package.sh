@@ -1,0 +1,13 @@
+docker-php-ext-enable bcmath
+docker-php-ext-enable ctype
+docker-php-ext-enable curl
+docker-php-ext-enable dom
+docker-php-ext-enable fileinfo
+docker-php-ext-enable json
+docker-php-ext-enable mbstring
+docker-php-ext-enable openssl
+docker-php-ext-enable pcre
+docker-php-ext-enable pdo
+docker-php-ext-enable pdo_mysql
+docker-php-ext-enable mysqli
+docker-php-ext-enable xml
